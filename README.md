@@ -1,5 +1,4 @@
-<title>  Configurer un scanner Trust 240 sous ubuntu </title>
-<p> cd /tmp  </p>
+<h1>  Configurer un scanner Trust 240 sous ubuntu </h1>
 <p> * Télécharger le fichier A2Dfw.usb dans le dossier /tmp  </p>
 <p> wget http://www.meier-geinitz.de/sane/gt68xx-backend/firmware/A2Dfw.usb  </p>
 <p> * Copier le fichier dans le dossier /usr/share/sane/gt68xx/  </p>
